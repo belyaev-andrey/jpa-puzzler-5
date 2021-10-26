@@ -8,13 +8,13 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class JpaPuzzler8Application implements CommandLineRunner {
+public class JpaPuzzler5Application implements CommandLineRunner {
 
     @Autowired
     private OwnerRepository ownerRepository;
 
     public static void main(String[] args) {
-        SpringApplication.run(JpaPuzzler8Application.class, args);
+        SpringApplication.run(JpaPuzzler5Application.class, args);
     }
 
     @Override

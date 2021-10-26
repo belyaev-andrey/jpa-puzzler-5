@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.jokerconf</groupId>
-	<artifactId>jpa-puzzler-8</artifactId>
+	<artifactId>jpa-puzzler-5</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>jpa-puzzler-8</name>
-	<description>jpa-puzzler-8</description>
+	<name>jpa-puzzler-5</name>
+	<description>jpa-puzzler-5</description>
 	<properties>
 		<java.version>11</java.version>
 	</properties>
